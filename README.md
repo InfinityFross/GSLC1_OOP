@@ -6,8 +6,12 @@ For the GSLC 1 Assignment OOP, I have created a simple Maze Solver program. When
 
 ![image](https://user-images.githubusercontent.com/127777965/224802062-8c867651-5791-4e8b-9352-97104bb8d83d.png)
 
+
 Option 1 for the answer:
+
 ![image](https://user-images.githubusercontent.com/127777965/224803596-df901827-f96b-405e-93ba-40a47d4e8424.png)
 
+
 Option 2 for the answer:
+
 ![image](https://user-images.githubusercontent.com/127777965/224803678-6ac5dfb3-056b-4f65-837c-95c6d8dfd48d.png)
