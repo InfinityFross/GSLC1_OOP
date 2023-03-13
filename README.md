@@ -1,20 +1,5 @@
-# GSLC1_OOP
-test
-dssfsgodfjgoedfjgoedfg
+# MazeSolver_GSLC1_OOP
+Name : Gabriel Sean Mintara
+NIM  : 2501959251
 
-gdf
-g
-dfg
-dfg
-dgd
-g
-dg
-dfgdfgdfgdfgd
-f
-df
-df
-df
-df
-df
-fddf
-g
+For the GSLC 1 Assignment OOP, I have created a simple Maze Solver
